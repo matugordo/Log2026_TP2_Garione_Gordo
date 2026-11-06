@@ -1,0 +1,24 @@
+#BlueJ class context
+#Fri Nov 06 12:56:41 ART 2026
+comment0.target=Agenda
+comment0.text=\r\n Clase agenda del sistema.\r\n \r\n @Author Valentino Garione - Matias Gordo\r\n @Version 1\r\n
+comment1.params=nombre
+comment1.target=Agenda(java.lang.String)
+comment10.params=nombre
+comment10.target=void buscarXcontacto(java.lang.String)
+comment11.target=void listarContactosAlfa()
+comment12.params=inicio
+comment12.target=void buscarXtitulos(java.lang.String)
+comment2.params=nota
+comment2.target=void agregarNota(Nota)
+comment3.params=contacto
+comment3.target=void agregarContacto(Contacto)
+comment4.target=void listarNotas()
+comment5.params=nombre
+comment5.target=void eliminarContacto(java.lang.String)
+comment6.target=void listarContactos()
+comment7.target=void listarContactosConNotas()
+comment8.target=void listarContactosSinNotas()
+comment9.params=contacto
+comment9.target=boolean tieneNotas(Contacto)
+numComments=13
